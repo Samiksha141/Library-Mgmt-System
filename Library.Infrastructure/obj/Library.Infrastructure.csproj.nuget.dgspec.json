@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SAMIKSHA\\Desktop\\.Net Practices\\Library.Infrastructure\\Library.Infrastructure.csproj": {}
+    "C:\\Users\\sharm\\OneDrive\\Desktop\\LMS\\Library-Mgmt-System\\Library.Infrastructure\\Library.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SAMIKSHA\\Desktop\\.Net Practices\\Library.Infrastructure\\Library.Infrastructure.csproj": {
+    "C:\\Users\\sharm\\OneDrive\\Desktop\\LMS\\Library-Mgmt-System\\Library.Infrastructure\\Library.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAMIKSHA\\Desktop\\.Net Practices\\Library.Infrastructure\\Library.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\sharm\\OneDrive\\Desktop\\LMS\\Library-Mgmt-System\\Library.Infrastructure\\Library.Infrastructure.csproj",
         "projectName": "Library.Infrastructure",
-        "projectPath": "C:\\Users\\SAMIKSHA\\Desktop\\.Net Practices\\Library.Infrastructure\\Library.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\SAMIKSHA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAMIKSHA\\Desktop\\.Net Practices\\Library.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\sharm\\OneDrive\\Desktop\\LMS\\Library-Mgmt-System\\Library.Infrastructure\\Library.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sharm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sharm\\OneDrive\\Desktop\\LMS\\Library-Mgmt-System\\Library.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\SAMIKSHA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sharm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
